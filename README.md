@@ -2,7 +2,7 @@
 
 **Multimodal grid features and cell pointers for Scene Text Visual Question Answering**
 
-Lluís Gómez, Ali Furkan Biten, Rubèn Tito, Andrés Mafla, Marçal Rusiñol, Ernest Valveny, Dimosthenis Ka
+Lluís Gómez, Ali Furkan Biten, Rubèn Tito, Andrés Mafla, Marçal Rusiñol, Ernest Valveny, Dimosthenis Karatzas
 
 
 - ```code/``` source code and utils. See the ```code/README.md``` for details.
@@ -18,6 +18,6 @@ Diagram of the model:
 
 ![ST-VQA_Loc diagram](./model.png)
 
-Qualitative examples of the produced attention masks and predicted answers for $5$ image/question pairs from the ST-VQA test set:
+Qualitative examples of the produced attention masks and predicted answers for 5 image/question pairs from the ST-VQA test set:
 
 ![ST-VQA_Loc output examples](./results.png)
