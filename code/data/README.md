@@ -10,3 +10,11 @@ data/ST-VQA/imageNet
 data/ST-VQA/VisualGenome
 data/ST-VQA/vizwiz
 ```
+
+You may want to replace the ```coco-text``` folder (which has images downscaled to 256x256) with the one provided in this repository (original COCO-Text images):
+
+
+```
+rm -Rf data/ST-VQA/coco-text
+cp -Rf ../STVQA_v2/coco-text_images data/ST-VQA/coco-text
+```
